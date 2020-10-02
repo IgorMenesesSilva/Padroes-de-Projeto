@@ -7,7 +7,7 @@ public class Main{
         Player decoder = null;
 
         Scanner scan = new Scanner(System.in);
-        System.out.print("Wich Player would you like to Play? MKV or Mp4?:");
+        System.out.print("Which Player would you like to Play? MKV or Mp4?:");
 
         String Choice = scan.nextLine();
 

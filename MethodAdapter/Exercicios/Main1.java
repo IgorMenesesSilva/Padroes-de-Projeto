@@ -1,3 +1,5 @@
+package Exercicios;
+
 class Main1 {
     public static void main(String args[]) {
           MedidorTemperatura medidor = new AdaptadorFarenheit();
