@@ -1,4 +1,3 @@
-
 ## PATTERN NAME AND CLASIFICATION
 Singleton Pattern
 
